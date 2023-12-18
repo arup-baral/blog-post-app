@@ -1,8 +1,8 @@
-# React + Vite
+# blog-application
+### A web application for posting blogs, only for authenticated users. Users may do CRUD operation on posts.
+#### Frontend: <i>React JS, Redux, Tailwind CSS, Tiny-mce editor</i>
+#### Backend: <i>Appwrite (Backend as a service)</i>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##### Application is deployed.
+<h3>Link: </h3> <i>https://blog-post-app-neon.vercel.app/</i>
+<h2>Have a look 😊 & share your posts with friends 😋🤗</h2>
